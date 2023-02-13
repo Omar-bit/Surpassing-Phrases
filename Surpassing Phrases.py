@@ -9,4 +9,4 @@ def is_surpassing_phrase(ch):
                 return False
             prev=diff
     return True
-print(is_surpassing_phrase("")).
+print(is_surpassing_phrase(""))
